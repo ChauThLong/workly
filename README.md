@@ -61,28 +61,6 @@ arduino
 Copy
 Edit
 http://localhost/workly_website/index.php
-📁 Cấu Trúc Thư Mục Dự Án
-css
-Copy
-Edit
-workly_website/
-├── index.php
-├── jobs.php
-├── profile.php
-├── edit_job.php
-├── edit_candidate.php
-├── edit_employer.php
-├── config.php
-├── includes/
-│   ├── header.php
-│   ├── footer.php
-├── uploads/
-│   ├── logos/
-│   ├── avatars/
-│   ├── cvs/
-├── css/
-│   └── styles.css
-└── README.md
 
 ✍️ Tác Giả
 Châu Thuyên Long
