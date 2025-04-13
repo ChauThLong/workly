@@ -30,6 +30,8 @@
 ### Bước 1: Tải mã nguồn về máy
 ```bash
 git clone https://github.com/ChauThLong/workly.git
+
+```bash
 Bước 2: Đưa vào thư mục XAMPP
 Giải nén hoặc di chuyển thư mục workly vào:
 
